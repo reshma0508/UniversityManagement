@@ -1,4 +1,4 @@
-package com.codegnan.university.managment;
+package com.codegnan.university.management;
 
 import java.util.ArrayList;
 import java.util.List;
